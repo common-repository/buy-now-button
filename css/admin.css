@@ -1,0 +1,118 @@
+.buy-now-button  {
+	max-width: 100%;
+	display: block;
+	clear: both;
+	margin: 0;
+	padding-right: 20px;
+}
+
+.buy-now-button hr {
+	margin-top:20px;
+}
+				
+.buy-now-button label {
+	font-weight: bold;
+}
+				
+.cc-clr {
+	display: block;
+	clear: both;
+	content: "";
+}
+				
+.buy-now-button .form-group  {
+	height: 50px;
+	display:block;
+}
+				
+.buy-now-button .form-group input {
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.buy-now-button  .ss-logo {
+	position: relative;
+	top: 12px;
+	width: 60px;
+	height: 60px;
+}
+
+.buy-now-button  .s-red {
+    background-color: #B70000 !important;
+	border: 1px solid #6B0000 !important;
+	display: block;
+	clear: both;
+	font-size: 40px;
+	font-weight: 900;
+	width: 100%;
+	color: #fff;
+	-webkit-transition: all 0.6s ease;
+	-moz-transition: all 0.6s ease;
+	-o-transition: all 0.6s ease;
+	-ms-transition: all 0.6s ease;
+	transition: all 0.6s ease;
+	font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px #333;
+}
+
+.buy-now-button h2  {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.s-red:hover {
+    background-color: red !important;
+}
+
+.buy-now-button .btn {
+	text-align: center;
+	line-height: 80px;
+}
+
+.buy-now-button  a {
+	text-decoration: none;
+}
+
+.buy-now-button h1 {
+	font-size: 44px;
+	padding: 30px 0 30px 0;
+	text-align: center;
+}
+
+.buy-now-button  #load_img1 {
+	max-width: 45px;
+}
+
+.buy-now-button .form-group {
+	margin-top: 50px;
+}
+
+.buy-now-button .bttb-images {
+	display: block;
+	margin-top: 40px;
+	clear: both;
+	height: 100%;
+}
+
+.bttb-radio {
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	padding: 30px;
+	border: 1px solid #C0C0C0;
+}
+
+.bttb-radio img {
+	position: absolute;
+}
+
+.bttb-radio input {
+	position: relative;
+}
+
+.attachment-featured-thumbnail {
+	width: 80px;
+	height: 80px;
+}
+

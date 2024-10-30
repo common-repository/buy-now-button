@@ -1,0 +1,47 @@
+.bnb-top {
+    text-shadow: 2px 2px #333;
+    font-size: 30px;
+    display: block;
+    direction: ltr;
+    text-align: center;
+    height: 62px;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    z-index: 9999999;
+    background: #7F0000;
+}
+
+.bnb-top a {
+	font-weight: 600;
+    color: #C0C0C0;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 62px;
+    height: 62px;
+    background: #34738E;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;	
+}
+
+
+
+.bnb-top:hover a {
+    color: #fff;
+    background: #4394B7;	
+}
+
+.bnb-fix {
+    position: relative;	
+    height: 55px;
+	display: block;
+}
+
+/*
+.bnb-top img {
+	position: absolute;
+	width: 55px !important;
+	left: 5px;
+}
+*/
+
